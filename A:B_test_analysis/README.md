@@ -1,5 +1,6 @@
 # Проектная работа: Проверка гипотез по увеличению выручки в интернет-магазине —оценить результаты A/B теста
 
+[Переход на тетрадку](https://github.com/VoytyukIlya/Portfolio/blob/main/A:B_test_analysis/AB_test.ipynb)
 
 ## Описание
 
