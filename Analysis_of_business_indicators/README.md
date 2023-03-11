@@ -1,7 +1,7 @@
 # Проектная работа: анализ бизнес-показателей 
 
 
-[Переход на тетрадку](https://github.com/VoytyukIlya/Portfolio/blob/main/Analysis_of_business_indicators/procrastinate_pro.ipynb)
+[Переход в тетрадку](https://github.com/VoytyukIlya/Portfolio/blob/main/Analysis_of_business_indicators/procrastinate_pro.ipynb)
 
 ## Данные
 
