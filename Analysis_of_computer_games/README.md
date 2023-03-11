@@ -1,6 +1,6 @@
 # Проектная работа: Анализ компьютерных игр 
 
-[Пеереход на тетрадку](https://github.com/VoytyukIlya/Portfolio/blob/main/Analysis_of_computer_games/Analysis_of_computer_games.ipynb)
+[Пеереход в тетрадку](https://github.com/VoytyukIlya/Portfolio/blob/main/Analysis_of_computer_games/Analysis_of_computer_games.ipynb)
 
 ## Данные
 
