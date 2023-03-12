@@ -1,6 +1,6 @@
 # Проектная работа: Анализ пользовательского поведения в мобильном приложении
 
-[Переход в тетрадку]()
+[Переход в тетрадку](https://github.com/VoytyukIlya/Portfolio/blob/main/Analysis_o_%20user_behavior_in_a_mobile_application/Analysis_of_user_behavior.ipynb)
 
 ## Описание 
 
