@@ -13,10 +13,10 @@
 - Power Query
 - Advanced Excel 
 
-**Мои контакты**.  
-тел. 8-900-361-45-26.  
-Telgram https://t.me/voytyuk_ilya. 
-Почта voytyuk.ilya@yandex.ru. 
+**Мои контакты**   
+тел. 8-900-361-45-26   
+Telgram https://t.me/voytyuk_ilya  
+Почта voytyuk.ilya@yandex.ru  
 
 ## Перечень выполненных проектов:
 |Название проекта| Описание | Используемые библиотеки |
