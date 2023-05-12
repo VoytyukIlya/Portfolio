@@ -13,7 +13,7 @@
 - Power Query
 - Advanced Excel 
 
-**Мои контакты**   
+**Мои контакты:**   
 тел. 8-900-361-45-26   
 Telgram https://t.me/voytyuk_ilya  
 Почта voytyuk.ilya@yandex.ru  
